@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevOps and Cloud Consultant**
 
-- 🌱 I’m currently learning **AWS, GCP, Azure**
+- 🌱 I’m currently learning **GCP**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
