@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LogicOpsLab by Ravish</h1>
 <h3 align="center">Reducing user stress is a pleasure & my most excellent expertise.</h3>
-
+<a href="https://imgur.com/ZIZw766"><img src="https://i.imgur.com/ZIZw766.png" title="source: imgur.com" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logicopslab&label=Profile%20views&color=0e75b6&style=flat" alt="logicopslab" /> </p>
 
 - 🔭 I’m currently working on **DevOps and Cloud Consultant**
